@@ -7,11 +7,12 @@ Developer, Undergraduate Student
 I have always been a technical person, from playing video games at home, making sure to do the Wordle everyday, and now coding my own projects like my own portfolio website! I am currently a junior at the Missouri University of Science and Technology studying towards a Bachelor's degree in Computer Science. The summer of 2024 will be a very important one for me, and I am working very hard towards landing an internship. Currently, I am using my own resources to learn more languages (currently Python and JavaScript), and I plan to learn some frameworks like Django. I would also like to get into open-source contributions on GitHub which would allow me to expose myself to even more Computer Science!
 
 * 👨  Pronouns: he/him
-* 🌍  I'm based in St. Louis, MO
-* 📖  I'm a Junior at the Missouri University of Science and Technology
-* 🖥️  See my portfolio at [https://loganmarkley.github.io](http://loganmarkley.github.io)
-* ✉️  You can contact me at [loganmarkley03@gmail.com](mailto:loganmarkley03@gmail.com)
-* 🧠  I'm currently learning Python and the Pygame library
+* 🌍  I'm based in St. Louis, MO.
+* 📖  I'm a Junior at the Missouri University of Science and Technology.
+* 🖥️  See my portfolio at [https://loganmarkley.github.io](http://loganmarkley.github.io).
+* ✉️  You can contact me at [loganmarkley03@gmail.com](mailto:loganmarkley03@gmail.com).
+* 🧠  I'm currently learning Python and the Pygame library.
+* 🧑‍💻  I'm currently working on my Room Planner Python Program!
 
 ### Skills
 
