@@ -30,12 +30,16 @@ I have always been a technical person, from playing video games at home, making 
 
 <p align="left"> <a href="https://www.github.com/loganmarkley" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/logan-c-markley" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/https://stackoverflow.com/users/22316438/logan-markley" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/LoganMarkley12" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+## Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/loganmarkley"><img src="https://github-readme-streak-stats.herokuapp.com/?user=loganmarkley&stroke=ffffff&background=22272e&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/loganmarkley/SnakeGame" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=loganmarkley&repo=SnakeGame&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/loganmarkley/loganmarkley.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=loganmarkley&repo=loganmarkley.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/loganmarkley/RoomPlanner" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=loganmarkley&repo=RoomPlanner&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/loganmarkley/loganmarkley.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=loganmarkley&repo=loganmarkley.github.io&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/loganmarkley/CS1570-HW9-FINAL" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=loganmarkley&repo=CS1570-HW9-FINAL&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/loganmarkley/CS1575-HW3" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=loganmarkley&repo=CS1575-HW3&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/loganmarkley/SnakeGame" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=loganmarkley&repo=SnakeGame&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/loganmarkley/CS1575-HW3" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=loganmarkley&repo=CS1575-HW3&title_color=14b8a6&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en" /></a></div>
