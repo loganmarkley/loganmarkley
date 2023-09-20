@@ -11,8 +11,7 @@ I have always been a technical person, from playing video games at home, making 
 * 📖  I'm a Junior at the Missouri University of Science and Technology.
 * 🖥️  See my portfolio at [https://loganmarkley.github.io](http://loganmarkley.github.io).
 * ✉️  You can contact me at [loganmarkley03@gmail.com](mailto:loganmarkley03@gmail.com).
-* 🧠  I'm currently learning Python and the Pygame library.
-* 🧑‍💻  I'm currently working on my Room Planner Python Program!
+* 🧠  I'm currently learning React and other web development tools.
 
 ### Skills
 
