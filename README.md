@@ -8,7 +8,7 @@ I have always been a technical person, from playing video games at home, making 
 
 * 👨  Pronouns: he/him
 * 🌍  I'm based in St. Louis, MO.
-* 📖  I'm a Junior at the Missouri University of Science and Technology.
+* 📖  I'm a Senior at the Missouri University of Science and Technology.
 * 🖥️  See my portfolio at [https://loganmarkley.net](http://loganmarkley.net).
 * ✉️  You can contact me at [loganmarkley03@gmail.com](mailto:loganmarkley03@gmail.com).
 * 🧠  I'm currently learning React and other web development tools.
